@@ -23,7 +23,9 @@ github_username:  adjspecies
 
 excerpt_separator: <!--more-->
 
-permalink: pretty
+permalink: /:year/:month/:day/:title/
+paginate: 10
+
 
 # Build settings
 markdown: kramdown

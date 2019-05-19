@@ -1,0 +1,71 @@
+---
+layout: post
+title: 'The Furry Canon: Animal Farm'
+date: 2016-03-21 12:00:16.000000000 -07:00
+type: post
+parent_id: '0'
+published: true
+password: ''
+status: publish
+categories:
+- Articles
+tags:
+- literature
+- The Furry Canon
+meta:
+  _at_widget: '1'
+  _edit_last: '14'
+  _social_notify: '1'
+  _social_broadcast_content: 'a:1:{s:7:"twitter";a:1:{i:403645425;s:84:"New Post by
+    JM: The Furry Canon: Animal Farm http://www.adjectivespecies.com/?p=2710";}}'
+  _social_broadcast_meta: a:1:{s:7:"twitter";a:1:{i:403645425;a:0:{}}}
+  _social_aggregation_next_run: '1458776194'
+  _social_broadcasted_ids: 'a:1:{s:7:"twitter";a:1:{i:403645425;a:1:{i:711975840544763904;a:3:{s:7:"message";s:3256:"eyJjcmVhdGVkX2F0IjoiTW9uIE1hciAyMSAxODowMDo0MiArMDAwMCAyMDE2IiwiaWQiOiI3MTE5NzU4NDA1NDQ3NjM5MDQiLCJpZF9zdHIiOiI3MTE5NzU4NDA1NDQ3NjM5MDQiLCJ0ZXh0IjoiTmV3IFBvc3QgYnkgSk06IFRoZSBGdXJyeSBDYW5vbjogQW5pbWFsIEZhcm0gaHR0cHM6XC9cL3QuY29cL2hvTEphS09sbXgiLCJ0cnVuY2F0ZWQiOmZhbHNlLCJzb3VyY2UiOiI8YSBocmVmPVwiaHR0cHM6XC9cL3NvcHJlc3RvLm1haWxjaGltcC5jb21cIiByZWw9XCJub2ZvbGxvd1wiPlNvY2lhbCBQcm94eSBieSBNYWlsY2hpbXA8XC9hPiIsImluX3JlcGx5X3RvX3N0YXR1c19pZCI6bnVsbCwiaW5fcmVwbHlfdG9fc3RhdHVzX2lkX3N0ciI6bnVsbCwiaW5fcmVwbHlfdG9fdXNlcl9pZCI6bnVsbCwiaW5fcmVwbHlfdG9fdXNlcl9pZF9zdHIiOm51bGwsImluX3JlcGx5X3RvX3NjcmVlbl9uYW1lIjpudWxsLCJ1c2VyIjp7ImlkIjoiNDAzNjQ1NDI1IiwiaWRfc3RyIjoiNDAzNjQ1NDI1IiwibmFtZSI6IlthZGplY3RpdmVdW3NwZWNpZXNdIiwic2NyZWVuX25hbWUiOiJhZGpzcGVjaWVzIiwibG9jYXRpb24iOiIiLCJkZXNjcmlwdGlvbiI6IkV4cGxvcmluZyB0aGUgZnVycnkgd29ybGQgZnJvbSB0aGUgaW5zaWRlIG91dC4iLCJ1cmwiOiJodHRwOlwvXC90LmNvXC9aWWg5V21MVTBuIiwiZW50aXRpZXMiOnsidXJsIjp7InVybHMiOlt7InVybCI6Imh0dHA6XC9cL3QuY29cL1pZaDlXbUxVMG4iLCJleHBhbmRlZF91cmwiOiJodHRwOlwvXC9hZGplY3RpdmVzcGVjaWVzLmNvbSIsImRpc3BsYXlfdXJsIjoiYWRqZWN0aXZlc3BlY2llcy5jb20iLCJpbmRpY2VzIjpbMCwyMl19XX0sImRlc2NyaXB0aW9uIjp7InVybHMiOltdfX0sInByb3RlY3RlZCI6ZmFsc2UsImZvbGxvd2Vyc19jb3VudCI6MTYxMSwiZnJpZW5kc19jb3VudCI6MzgzLCJsaXN0ZWRfY291bnQiOjI4LCJjcmVhdGVkX2F0IjoiV2VkIE5vdiAwMiAxOTo1NzozOCArMDAwMCAyMDExIiwiZmF2b3VyaXRlc19jb3VudCI6NDg3LCJ1dGNfb2Zmc2V0IjotMjUyMDAsInRpbWVfem9uZSI6IlBhY2lmaWMgVGltZSAoVVMgJiBDYW5hZGEpIiwiZ2VvX2VuYWJsZWQiOmZhbHNlLCJ2ZXJpZmllZCI6ZmFsc2UsInN0YXR1c2VzX2NvdW50IjozMDg4LCJsYW5nIjoiZW4iLCJjb250cmlidXRvcnNfZW5hYmxlZCI6ZmFsc2UsImlzX3RyYW5zbGF0b3IiOmZhbHNlLCJpc190cmFuc2xhdGlvbl9lbmFibGVkIjpmYWxzZSwicHJvZmlsZV9iYWNrZ3JvdW5kX2NvbG9yIjoiQzBERUVEIiwicHJvZmlsZV9iYWNrZ3JvdW5kX2ltYWdlX3VybCI6Imh0dHA6XC9cL2Ficy50d2ltZy5jb21cL2ltYWdlc1wvdGhlbWVzXC90aGVtZTFcL2JnLnBuZyIsInByb2ZpbGVfYmFja2dyb3VuZF9pbWFnZV91cmxfaHR0cHMiOiJodHRwczpcL1wvYWJzLnR3aW1nLmNvbVwvaW1hZ2VzXC90aGVtZXNcL3RoZW1lMVwvYmcucG5nIiwicHJvZmlsZV9iYWNrZ3JvdW5kX3RpbGUiOmZhbHNlLCJwcm9maWxlX2ltYWdlX3VybCI6Imh0dHA6XC9cL3Bicy50d2ltZy5jb21cL3Byb2ZpbGVfaW1hZ2VzXC80MTYzMzE0MDYyMTAzODM4NzJcL0cyWFhHOWN6X25vcm1hbC5wbmciLCJwcm9maWxlX2ltYWdlX3VybF9odHRwcyI6Imh0dHBzOlwvXC9wYnMudHdpbWcuY29tXC9wcm9maWxlX2ltYWdlc1wvNDE2MzMxNDA2MjEwMzgzODcyXC9HMlhYRzljel9ub3JtYWwucG5nIiwicHJvZmlsZV9saW5rX2NvbG9yIjoiMDA4NEI0IiwicHJvZmlsZV9zaWRlYmFyX2JvcmRlcl9jb2xvciI6IkMwREVFRCIsInByb2ZpbGVfc2lkZWJhcl9maWxsX2NvbG9yIjoiRERFRUY2IiwicHJvZmlsZV90ZXh0X2NvbG9yIjoiMzMzMzMzIiwicHJvZmlsZV91c2VfYmFja2dyb3VuZF9pbWFnZSI6dHJ1ZSwiaGFzX2V4dGVuZGVkX3Byb2ZpbGUiOmZhbHNlLCJkZWZhdWx0X3Byb2ZpbGUiOnRydWUsImRlZmF1bHRfcHJvZmlsZV9pbWFnZSI6ZmFsc2UsImZvbGxvd2luZyI6ZmFsc2UsImZvbGxvd19yZXF1ZXN0X3NlbnQiOmZhbHNlLCJub3RpZmljYXRpb25zIjpmYWxzZX0sImdlbyI6bnVsbCwiY29vcmRpbmF0ZXMiOm51bGwsInBsYWNlIjpudWxsLCJjb250cmlidXRvcnMiOm51bGwsImlzX3F1b3RlX3N0YXR1cyI6ZmFsc2UsInJldHdlZXRfY291bnQiOjAsImZhdm9yaXRlX2NvdW50IjowLCJlbnRpdGllcyI6eyJoYXNodGFncyI6W10sInN5bWJvbHMiOltdLCJ1c2VyX21lbnRpb25zIjpbXSwidXJscyI6W3sidXJsIjoiaHR0cHM6XC9cL3QuY29cL2hvTEphS09sbXgiLCJleHBhbmRlZF91cmwiOiJodHRwOlwvXC93d3cuYWRqZWN0aXZlc3BlY2llcy5jb21cLz9wPTI3MTAiLCJkaXNwbGF5X3VybCI6ImFkamVjdGl2ZXNwZWNpZXMuY29tXC8/cD0yNzEwIiwiaW5kaWNlcyI6WzQ1LDY4XX1dfSwiZmF2b3JpdGVkIjpmYWxzZSwicmV0d2VldGVkIjpmYWxzZSwicG9zc2libHlfc2Vuc2l0aXZlIjpmYWxzZSwibGFuZyI6ImVuIn0=";s:4:"urls";a:2:{i:0;s:71:"http://www.adjectivespecies.com/2016/03/21/the-furry-canon-animal-farm/";i:1;s:39:"http://www.adjectivespecies.com/?p=2710";}s:7:"account";O:8:"stdClass":1:{s:4:"user";O:8:"stdClass":38:{s:2:"id";s:9:"403645425";s:6:"id_str";s:9:"403645425";s:4:"name";s:20:"[adjective][species]";s:11:"screen_name";s:10:"adjspecies";s:8:"location";s:0:"";s:3:"url";s:27:"http://adjectivespecies.com";s:11:"description";s:46:"Exploring
+    the furry world from the inside out.";s:9:"protected";s:1:"0";s:15:"followers_count";s:3:"561";s:13:"friends_count";s:3:"350";s:12:"listed_count";s:1:"6";s:10:"created_at";s:30:"Wed
+    Nov 02 19:57:38 +0000 2011";s:16:"favourites_count";s:2:"11";s:10:"utc_offset";s:6:"-28800";s:9:"time_zone";s:30:"Pacific
+    Time (US &amp; Canada)";s:11:"geo_enabled";s:1:"0";s:8:"verified";s:1:"0";s:14:"statuses_count";s:4:"1944";s:4:"lang";s:2:"en";s:6:"status";a:10:{s:10:"created_at";s:30:"Sun
+    Feb 17 15:21:53 +0000 2013";s:2:"id";s:18:"303162359898312705";s:6:"id_str";s:18:"303162359898312705";s:4:"text";s:49:"New
+    Post: Birds of a Feather http://t.co/Y61Z4Ht6";s:6:"source";s:9:"TweetDeck";s:9:"truncated";s:1:"0";s:13:"retweet_count";s:1:"2";s:9:"favorited";s:1:"0";s:9:"retweeted";s:1:"0";s:18:"possibly_sensitive";s:1:"0";}s:20:"contributors_enabled";s:1:"0";s:13:"is_translator";s:1:"0";s:24:"profile_background_color";s:6:"C0DEED";s:28:"profile_background_image_url";s:47:"http://a0.twimg.com/images/themes/theme1/bg.png";s:34:"profile_background_image_url_https";s:49:"https://si0.twimg.com/images/themes/theme1/bg.png";s:23:"profile_background_tile";s:1:"0";s:17:"profile_image_url";s:71:"http://a0.twimg.com/profile_images/1647343758/adjspecies-ico_normal.png";s:23:"profile_image_url_https";s:73:"https://si0.twimg.com/profile_images/1647343758/adjspecies-ico_normal.png";s:18:"profile_link_color";s:6:"0084B4";s:28:"profile_sidebar_border_color";s:6:"C0DEED";s:26:"profile_sidebar_fill_color";s:6:"DDEEF6";s:18:"profile_text_color";s:6:"333333";s:28:"profile_use_background_image";s:1:"1";s:15:"default_profile";s:1:"1";s:21:"default_profile_image";s:1:"0";s:9:"following";s:1:"0";s:19:"follow_request_sent";s:1:"0";s:13:"notifications";s:1:"0";}}}}}}'
+author:
+  login: JM
+  email: jm@furrynet.com
+  display_name: JM
+  first_name: ''
+  last_name: ''
+---
+<p><a href="http://www.adjectivespecies.com/2012/03/12/animal-farm/"><em>This article is an updated version of a piece published on </em>[adjective][species]<em> in March 2012.</em></a></p>
+<p><em>Animal Farm</em> is George Orwell’s 1945 classic novel.</p>
+<p>Orwell is considered to be one of the great authors and <em>Animal Farm</em>, along with <em>Nineteen Eighty-Four</em>, is considered to be one of his masterpieces. <em>Animal Farm</em> follows the story of anthropomorphic animals that overthrow their human farmer master and run the farm on their own terms.</p>
+<p>I re-read <em>Animal Farm</em> with the idea that I would review it for <em>[adjective][species]</em>. I was planning to conclude that it’s a great book, and a great furry book, that all furries should read it, and it's an easy book to recommend to the <a href="http://www.adjectivespecies.com/tag/the-furry-canon/"><em>[adjective][species]</em> Furry Canon</a>.</p>
+<p>I have re-read <em>Animal Farm</em>, but I’m not recommending to the Furry Canon. Read something else.<!--more--><span id="more-489"></span></p>
+<p>I simply don’t think that <em>Animal Farm</em> is a furry book. Which got me thinking about what constitutes a furry book.</p>
+<p>I’ll try to define what a furry book is later, but let’s look at <em>Animal Farm</em> first. It has many qualities that might make it attractive to a furry audience:</p>
+<ul>
+<li><em>Animal Farm</em> is not complex or difficult to read. Its full title is “<em>Animal Farm: A Fairy Story</em>“, and it’s written in a very deliberate children’s storybook style. The writing is magical in its clarity, akin to Dr Seuss, J.K. Rowling or Philip K. Dick.</li>
+<li><em>Animal Farm</em> is short: you can start and finish it in a single sitting. It took me a couple of hours.</li>
+<li>The animal characters are fully realized and easy to empathize with.</li>
+<li>Many furry readers will appreciate that the only romance in the book is homosexual, between Benjamin the donkey and Boxer the horse. In line with the writing style, the relationship is chaste and friendly, and would perhaps be better described as homosocial, a bit like Bert and Ernie of Sesame Street. Still, Benjamin and Boxer are devoted to one another and are inseparable to the point that they plan to retire together.</li>
+</ul>
+<p>And yet I don’t think it’s a furry book.</p>
+<p>Why? For starters, I think that furry is escapist by nature.</p>
+<p>Furry books tend to embrace an alternate universe. Makyo touched on this is some detail in her <a title="Layers of Fantasy" href="http://www.adjectivespecies.com/2012/01/04/layers-of-fantasy/" target="_blank">Layers of Fantasy post</a>. She pointed out that furry art tends to exist in this context:</p>
+<p style="padding-left: 30px;"><em>It is a sort of stacking of different layers of fantasy, with our focus on anthropomorphic animals being layered atop science fiction or fantasy elements.</em></p>
+<p>Makyo goes on to point out that this isn’t a rule that applies to all furry art, and that the alternate-universe concept falls over when we furries socialize in the real world. But I think that furry does necessarily involve some disconnection from the real world, if only to accommodate our self-images as animal people. I understand that this point is arguable (and please do comment away).</p>
+<p>I think that a real-life furry gathering is always different from a non-furry group. The alternate names; the blasé acceptance of ears and tails and fursuits; the non-traditional treatment of sexuality, and;- most importantly – the implicit acceptance that each of us are the being that we feel we are on the inside. I’m an anthropomorphic horse; RandomWolf is in a funny mood because there is a full moon; Bob is just a friendly human who likes Thundercats.</p>
+<p>I think that furry books reflect the furry community, in that the community is disconnected from the real world. As furries, we want to escape—however marginally—from the real world. We create our own reality.</p>
+<p><em>Animal Farm</em>, despite its talking animals, exists firmly within the real world. It is allegorical, not fantastical. I wouldn’t recommend Bulgakov’s <em>The Master &amp; Margarita</em> as a furry book either.</p>
+<p><em>Animal Farm</em> is an allegory of the Russian Revolution. It retells the story of Russia and the USSR from around World War I through to the last years of World War II. The primary porcine protagonists—Major, Napoleon and Snowball—are respective literal analogs for Marx, Stalin and Trotsky. <em>Animal Farm</em> is no fairytale: there is no redemption, no success. The farm, following revolutionary overthrow of the despotic Farmer Jones, charts a course back to corrupt dictatorship as straight as an arrow.</p>
+<p>The children’s storybook language is key to the book’s power and testament to Orwell’s genius. The language primes us to expect and hope that our farm animals will earn themselves a better life through hope and struggle: we’ve read storybooks before. We expect conflict and dark times, but we also expect redemption or at least an engaging Brothers-Grimm-style grotesque coda. But there is no hope for our animals. They are as doomed under the pigs as they were under Farmer Jones.</p>
+<p>As well as escapism, a furry book will often employ a literary device where species is shorthand for behaviour. (Cheetahs are fast; foxes are vain; bulls are strong.) This does occur in <em>Animal Farm</em> to an extent—for example we have a strong horse, a lazy cat, and a grumpy donkey—however like the characterization of the pigs, this is meant allegorically. That is, Orwell explores the fates of the Russian people against their (respectively for my three examples) loyalty, work ethic, and cynicism.</p>
+<p>To put it more directly: <em>Animal Farm</em> doesn’t explore speciation as a philosophical idea in the way that a furry book does.</p>
+<p>I <a title="Horses and Houyhnhnms" href="http://www.adjectivespecies.com/2012/01/30/horses-and-houyhnhnms/" target="_blank">wrote about <em>Gulliver’s Travels</em></a> (in an article which will also be adapted in the context of the <em>[a][s]</em> Furry Canon project), using this as the key “furry” idea. Swift’s rational horses and animalistic humans and are intended to disconnect our rational nature from our atavistic selves. In doing so, he asks us to consider what it means to be human, a question close to the heart of many furries (and, of course, <em>[adjective][species]</em>). I’d recommend <em>Gulliver’s Travels</em> to any furry interested in exploring the idea of identity.</p>
+<p>Another example: <em>The First Book of Lapism</em> by <a href="http://www.adjectivespecies.com/author/rabbit/"><em>[a][s]</em> contributor Phil Geusz</a> deals with the philosophical aspects of identity and species. Geusz imagines a world where people voluntarily transform themselves into bunny-people in the hope of creating a pacifist and highly-socialized race. Guesz’s books explore the consequences of this new race in an accessible alternate-universe manner. Speculative fiction isn’t personally my cup of furry tea, but Guesz’s works are well written and beloved by many.</p>
+<p><em>Animal Farm</em> is a work of genius and was a very important book when it was published in 1945. History is important, but the Russian Revolution is less relevant in our post cold-war world. And if a version of <em>Animal Farm</em> were published today as an allegory for conflict between the Western and Islamic worlds, I still wouldn’t recommend it as a furry book.</p>
+<hr />
+<p>Follow <a href="http://www.adjectivespecies.com/tag/the-furry-canon/">this link</a> to explore everything we have published on the <em>[adjective][species]</em> Furry Canon project.</p>
+<hr />
+<p>The Furry Canon, recommended, at the time of publication:<br />
+<em><a href="http://www.adjectivespecies.com/2016/03/18/the-furry-canon-redwall/">Redwall</a></em></p>
+
+
+
